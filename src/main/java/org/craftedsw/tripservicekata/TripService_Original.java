@@ -4,9 +4,9 @@
 //import java.util.List;
 //
 //import org.craftedsw.tripservicekata.exception.UserNotLoggedInException;
-//import org.craftedsw.tripservicekata.trip.Trip;
-//import org.craftedsw.tripservicekata.trip.TripDAO;
-//import org.craftedsw.tripservicekata.user.User;
+//import org.craftedsw.tripservicekata.entity.Trip;
+//import org.craftedsw.tripservicekata.dao.impl.TripDAO;
+//import org.craftedsw.tripservicekata.entity.User;
 //import org.craftedsw.tripservicekata.user.UserSession;
 //
 //public class TripService_Original {
