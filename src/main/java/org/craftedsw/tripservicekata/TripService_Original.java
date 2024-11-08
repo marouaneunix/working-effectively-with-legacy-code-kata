@@ -1,4 +1,4 @@
-//package org.craftedsw.tripservicekata;
+package org.craftedsw.tripservicekata;//package org.craftedsw.tripservicekata;
 //
 //import java.util.ArrayList;
 //import java.util.List;
